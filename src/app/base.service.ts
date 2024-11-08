@@ -13,4 +13,18 @@ export class BaseService {
   getAliens() {
     return this.http.get(this.url);
   }
+
+
+
+  updateAlien(alien:any){
+    return this.http.put(this.url+alien.id, alien);
+  }
+
+  deleteteAlien(alien:any){
+    return this.http.delete(this.url+alien.id);
+  }
+
+  postAlien(alien:any){
+    return this.http.post(this.url, alien);
+  }
 }

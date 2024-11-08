@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Diak\\..FJD\\Frontend\\2024-11-08\\AlieFrontend\\UFO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7F34851-61CD-4637-91B0-33A3FC4FF7E2}|UFOAPI\\UFOAPI.csproj|c:\\users\\diak\\..fjd\\frontend\\2024-11-08\\aliefrontend\\ufo\\ufoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7F34851-61CD-4637-91B0-33A3FC4FF7E2}|UFOAPI\\UFOAPI.csproj|solutionrelative:ufoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Diak\\..FJD\\Frontend\\2024-11-08\\AlieFrontend\\UFO\\UFOAPI\\Migrations\\20241108081007_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UFOAPI\\Migrations\\20241108081007_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7F34851-61CD-4637-91B0-33A3FC4FF7E2}|UFOAPI\\UFOAPI.csproj|c:\\users\\diak\\..fjd\\frontend\\2024-11-08\\aliefrontend\\ufo\\ufoapi\\models\\alien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F34851-61CD-4637-91B0-33A3FC4FF7E2}|UFOAPI\\UFOAPI.csproj|solutionrelative:ufoapi\\models\\alien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7F34851-61CD-4637-91B0-33A3FC4FF7E2}|UFOAPI\\UFOAPI.csproj|c:\\users\\diak\\..fjd\\frontend\\2024-11-08\\aliefrontend\\ufo\\ufoapi\\controllers\\alienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7F34851-61CD-4637-91B0-33A3FC4FF7E2}|UFOAPI\\UFOAPI.csproj|solutionrelative:ufoapi\\controllers\\alienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7F34851-61CD-4637-91B0-33A3FC4FF7E2}|UFOAPI\\UFOAPI.csproj|c:\\users\\diak\\..fjd\\frontend\\2024-11-08\\aliefrontend\\ufo\\ufoapi\\models\\alien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7F34851-61CD-4637-91B0-33A3FC4FF7E2}|UFOAPI\\UFOAPI.csproj|solutionrelative:ufoapi\\models\\alien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7F34851-61CD-4637-91B0-33A3FC4FF7E2}|UFOAPI\\UFOAPI.csproj|c:\\users\\diak\\..fjd\\frontend\\2024-11-08\\aliefrontend\\ufo\\ufoapi\\migrations\\20241108081007_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F34851-61CD-4637-91B0-33A3FC4FF7E2}|UFOAPI\\UFOAPI.csproj|solutionrelative:ufoapi\\migrations\\20241108081007_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F34851-61CD-4637-91B0-33A3FC4FF7E2}|UFOAPI\\UFOAPI.csproj|c:\\users\\diak\\..fjd\\frontend\\2024-11-08\\aliefrontend\\ufo\\ufoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F34851-61CD-4637-91B0-33A3FC4FF7E2}|UFOAPI\\UFOAPI.csproj|solutionrelative:ufoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7F34851-61CD-4637-91B0-33A3FC4FF7E2}|UFOAPI\\UFOAPI.csproj|c:\\users\\diak\\..fjd\\frontend\\2024-11-08\\aliefrontend\\ufo\\ufoapi\\ufoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Diak\\..FJD\\Frontend\\2024-11-08\\AlieFrontend\\UFO\\UFOAPI\\Program.cs",
               "RelativeDocumentMoniker": "UFOAPI\\Program.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "20241108081007_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\Diak\\..FJD\\Frontend\\2024-11-08\\AlieFrontend\\UFO\\UFOAPI\\Migrations\\20241108081007_InitialMigration.cs",
               "RelativeDocumentMoniker": "UFOAPI\\Migrations\\20241108081007_InitialMigration.cs",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AliensController.cs",
               "DocumentMoniker": "C:\\Users\\Diak\\..FJD\\Frontend\\2024-11-08\\AlieFrontend\\UFO\\UFOAPI\\Controllers\\AliensController.cs",
               "RelativeDocumentMoniker": "UFOAPI\\Controllers\\AliensController.cs",
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Alien.cs",
               "DocumentMoniker": "C:\\Users\\Diak\\..FJD\\Frontend\\2024-11-08\\AlieFrontend\\UFO\\UFOAPI\\Models\\Alien.cs",
               "RelativeDocumentMoniker": "UFOAPI\\Models\\Alien.cs",
@@ -87,15 +87,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UFOAPI",
+              "Title": "UFOAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Diak\\..FJD\\Frontend\\2024-11-08\\AlieFrontend\\UFO\\UFOAPI\\UFOAPI.csproj",
               "RelativeDocumentMoniker": "UFOAPI\\UFOAPI.csproj",
               "ToolTip": "C:\\Users\\Diak\\..FJD\\Frontend\\2024-11-08\\AlieFrontend\\UFO\\UFOAPI\\UFOAPI.csproj",
               "RelativeToolTip": "UFOAPI\\UFOAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-08T07:57:04.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T07:57:04.93Z"
             }
           ]
         }

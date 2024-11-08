@@ -1,1 +1,30 @@
-{{aliens | json}}
+
+<div *ngIf="!error;else hiba" class="container">
+  <div class="row mb-3 fw-bold">
+    <div *ngFor="let oszlop of oszlopok" class="col">{{ oszlop.text }}</div>
+    <div class="col">Actions</div>
+  </div>
+
+  <div class="row mb-2">
+    <div *ngFor="let oszlop of oszlopok" class="col">
+      <input [(ngModel)]="newAlien[oszlop.key]" type="{{ oszlop.type }}" class="form-control">
+    </div>
+    <div class="col">
+      <button (click)="postAliens()" class="btn btn-outline-success">Add</button>
+    </div>
+  </div>
+
+  <div *ngFor="let alien of aliens" class="row mb-2">
+    <div *ngFor="let oszlop of oszlopok" class="col">
+      <input [(ngModel)]="alien[oszlop.key]" type="{{ oszlop.type }}" class="form-control">
+    </div>
+    <div class="col">
+      <button (click)="updateAlien(alien)" class="btn btn-outline-primary me-2">Update</button>
+      <button (click)="deleteAlien(alien)" class="btn btn-outline-danger">Delete</button>
+    </div>
+  </div>
+</div>
+
+<ng-template #hiba>
+  <div class="alert alert-danger" role="alert">{{errorText | json}} </div>
+</ng-template>
